@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\dbazi\OneDrive\Рабочий стол\KR2\KR2\Header_Student.h(193): warning C4715: Student::sravn: значение возвращается не при всех путях выполнения
+C:\Users\dbazi\OneDrive\Рабочий стол\KR2\KR2\Header_Student.h(221): warning C4715: Student::search: значение возвращается не при всех путях выполнения
+C:\Users\dbazi\OneDrive\Рабочий стол\KR2\KR2\Header_Student.h(248): warning C4715: Student::search: значение возвращается не при всех путях выполнения
+C:\Users\dbazi\OneDrive\Рабочий стол\KR2\KR2\main.cpp(28): warning C4715: isValidName: значение возвращается не при всех путях выполнения
+C:\Users\dbazi\OneDrive\Рабочий стол\KR2\KR2\main.cpp(17): warning C4715: Prov: значение возвращается не при всех путях выполнения
+  KR2.vcxproj -> C:\Users\dbazi\OneDrive\Рабочий стол\KR2\Debug\KR2.exe
